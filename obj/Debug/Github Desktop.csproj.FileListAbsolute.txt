@@ -1,0 +1,21 @@
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\Github Desktop.exe.config
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\Github Desktop.exe
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\Github Desktop.pdb
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\obj\Debug\Github Desktop.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\obj\Debug\Github Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\obj\Debug\Github_Desktop.Form1.resources
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\obj\Debug\Github_Desktop.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\obj\Debug\Github Desktop.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\obj\Debug\Github Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\obj\Debug\Github Desktop.exe
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\obj\Debug\Github Desktop.pdb
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Mustafa\source\repos\Github Desktop\Github Desktop\obj\Debug\Github Desktop.csproj.CopyComplete
